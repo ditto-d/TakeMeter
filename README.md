@@ -112,6 +112,9 @@ Overall Accuracy: **51.6%**
 
 ## Confusion Matrix
 
+![Confusion Matrix](confusion_matrix.png)
+The metrics are stored in:evaluation_results.json
+
 Fine-Tuned DistilBERT Test Results
 
 | True \ Predicted | NEWS | ANALYSIS | HOT_TAKE | REACTION |
