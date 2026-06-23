@@ -385,6 +385,7 @@ Example 3
 
 I used ChatGPT to review drafts of my README and evaluation report. The AI helped improve organization and clarity, but all
 conclusions, interpretations of the results, and final written content were reviewed and edited by me before submission.
+
 ---
 
 ## Repository Contents
